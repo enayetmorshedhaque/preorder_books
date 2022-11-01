@@ -58,7 +58,7 @@ body{
 }
 
 #billTable{
-    display: none;
+    display: none !important;
 }
 
 tr th:first{
