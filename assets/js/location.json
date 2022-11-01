@@ -1,0 +1,2939 @@
+[{
+    "district_name": "বাঘেরহাট",
+    "value": 1,
+    "area": [
+        {
+            "area_name": "কচুয়া",
+            "value": "1"
+        },
+        {
+            "area_name": "চিতলমারী",
+            "value": "2"
+        },
+        {
+            "area_name": "ফকিরহাট",
+            "value": "3"
+        },
+        {
+            "area_name": "বাগেরহাট সদর",
+            "value": "4"
+        },
+        {
+            "area_name": "মোংলা",
+            "value": "5"
+        },
+        {
+            "area_name": "মোল্লাহাট",
+            "value": "6"
+        },
+        {
+            "area_name": "মোড়েলগঞ্জ",
+            "value": "7"
+        },
+        {
+            "area_name": "রামপাল",
+            "value": "8"
+        },
+        {
+            "area_name": "শরণখোলা",
+            "value": "9"
+        }
+    ]
+  },
+  {
+    "district_name": "বান্দরবান",
+    "value": 2,
+    "area": [
+        {
+            "area_name": "আলীকদম",
+            "value": "10"
+        },
+        {
+            "area_name": "থানচি",
+            "value": "11"
+        },
+        {
+            "area_name": "নাইক্ষ্যংছড়ি",
+            "value": "12"
+        },
+        {
+            "area_name": "বান্দরবান সদর",
+            "value": "13"
+        },
+        {
+            "area_name": "রুমা",
+            "value": "14"
+        },
+        {
+            "area_name": "রোয়াংছড়ি",
+            "value": "15"
+        },
+        {
+            "area_name": "লামা",
+            "value": "16"
+        }
+    ]
+  },
+  {
+    "district_name": "বরগুনা",
+    "value": 3,
+    "area": [
+        {
+            "area_name": "আমতলী",
+            "value": "17"
+        },
+        {
+            "area_name": "তালতলি",
+            "value": "18"
+        },
+        {
+            "area_name": "পাথরঘাটা",
+            "value": "19"
+        },
+        {
+            "area_name": "বরগুনা সদর",
+            "value": "20"
+        },
+        {
+            "area_name": "বামনা",
+            "value": "21"
+        },
+        {
+            "area_name": "বেতাগী",
+            "value": "22"
+        }
+    ]
+  },
+  {
+    "district_name": "বরিশাল",
+    "value": 4,
+    "area": [
+        {
+            "area_name": "আগৈলঝাড়া",
+            "value": "23"
+        },
+        {
+            "area_name": "উজিরপুর",
+            "value": "24"
+        },
+        {
+            "area_name": "গৌরনদী",
+            "value": "25"
+        },
+        {
+            "area_name": "বরিশাল সদর",
+            "value": "26"
+        },
+        {
+            "area_name": "বাকেরগঞ্জ",
+            "value": "27"
+        },
+        {
+            "area_name": "বানারীপাড়া",
+            "value": "28"
+        },
+        {
+            "area_name": "বাবুগঞ্জ",
+            "value": "29"
+        },
+        {
+            "area_name": "মুলাদী",
+            "value": "30"
+        },
+        {
+            "area_name": "মেহেন্দিগঞ্জ",
+            "value": "31"
+        },
+        {
+            "area_name": "হিজলা",
+            "value": "32"
+        }
+    ]
+  },
+  {
+    "district_name": "ভোলা",
+    "value": 5,
+    "area": [
+        {
+            "area_name": "চরফ্যাশন",
+            "value": "33"
+        },
+        {
+            "area_name": "তজুমদ্দিন",
+            "value": "34"
+        },
+        {
+            "area_name": "দৌলতখান",
+            "value": "35"
+        },
+        {
+            "area_name": "বোরহান উদ্দিন",
+            "value": "36"
+        },
+        {
+            "area_name": "ভোলা সদর",
+            "value": "37"
+        },
+        {
+            "area_name": "মনপুরা",
+            "value": "38"
+        },
+        {
+            "area_name": "লালমোহন",
+            "value": "39"
+        }
+    ]
+  },
+  {
+    "district_name": "বগুড়া",
+    "value": 6,
+    "area": [
+        {
+            "area_name": "আদমদিঘি",
+            "value": "40"
+        },
+        {
+            "area_name": "কাহালু",
+            "value": "41"
+        },
+        {
+            "area_name": "গাবতলী",
+            "value": "42"
+        },
+        {
+            "area_name": "বগুড়া সদর",
+            "value": "43"
+        },
+        {
+            "area_name": "দুপচাচিঁয়া",
+            "value": "44"
+        },
+        {
+            "area_name": "ধুনট",
+            "value": "45"
+        },
+        {
+            "area_name": "নন্দিগ্রাম",
+            "value": "46"
+        },
+        {
+            "area_name": "শাজাহানপুর",
+            "value": "47"
+        },
+        {
+            "area_name": "শিবগঞ্জ",
+            "value": "48"
+        },
+        {
+            "area_name": "শেরপুর",
+            "value": "49"
+        },
+        {
+            "area_name": "সারিয়াকান্দি",
+            "value": "50"
+        },
+        {
+            "area_name": "সোনাতলা",
+            "value": "51"
+        }
+    ]
+  },
+  {
+    "district_name": "ব্রাহ্মণবাড়িয়া",
+    "value": 7,
+    "area": [
+        {
+            "area_name": "আখাউড়া",
+            "value": "52"
+        },
+        {
+            "area_name": "আশুগঞ্জ",
+            "value": "53"
+        },
+        {
+            "area_name": "কসবা",
+            "value": "54"
+        },
+        {
+            "area_name": "ব্রাহ্মণবাড়িয়া সদর",
+            "value": "55"
+        },
+        {
+            "area_name": "নবীনগর",
+            "value": "56"
+        },
+        {
+            "area_name": "নাসিরনগর",
+            "value": "57"
+        },
+        {
+            "area_name": "বাঞ্ছারামপুর",
+            "value": "58"
+        },
+        {
+            "area_name": "বিজয়নগর",
+            "value": "59"
+        },
+        {
+            "area_name": "সরাইল",
+            "value": "60"
+        }
+    ]
+  },
+  {
+    "district_name": "চাঁদপুর",
+    "value": 8,
+    "area": [
+        {
+            "area_name": "কচুয়া",
+            "value": "61"
+        },
+        {
+            "area_name": "চাঁদপুর সদর",
+            "value": "62"
+        },
+        {
+            "area_name": "ফরিদগঞ্জ",
+            "value": "63"
+        },
+        {
+            "area_name": "মতলব উত্তর",
+            "value": "64"
+        },
+        {
+            "area_name": "মতলব দক্ষিণ",
+            "value": "65"
+        },
+        {
+            "area_name": "শাহরাস্তি",
+            "value": "66"
+        },
+        {
+            "area_name": "হাইমচর",
+            "value": "67"
+        },
+        {
+            "area_name": "হাজীগঞ্জ",
+            "value": "68"
+        }
+    ]
+  },
+  {
+    "district_name": "চট্টগ্রাম",
+    "value": 9,
+    "area": [
+        {
+            "area_name" : "আকবরশাহ",
+            "value": "69"
+        },
+        {
+            "area_name" : "আগ্রাবাদ",
+            "value": "70"
+        },
+        {
+            "area_name" : "আনোয়ারা",
+            "value": "71"
+        },
+        {
+            "area_name" : "আমিরাবাদ",
+            "value": "72"
+        },
+        {
+            "area_name" : "কর্ণফুলী",
+            "value": "73"
+        },
+        {
+            "area_name" : "কাজিরদেউরী",
+            "value": "74"
+        },
+        {
+            "area_name" : "কোতয়ালি",
+            "value": "75"
+        },
+        {
+            "area_name" : "খাতুনগঞ্জ",
+            "value": "76"
+        },
+        {
+            "area_name" : "খুলশী",
+            "value": "77"
+        },
+        {
+            "area_name" : "চকবাজার",
+            "value": "78"
+        },
+        {
+            "area_name" : "চন্দনাইশ",
+            "value": "79"
+        },
+        {
+            "area_name" : "চান্দগাঁও",
+            "value": "80"
+        },
+        {
+            "area_name" : "ডাবল",
+            "value": "81"
+        },
+        {
+            "area_name" : "নাসিরাবাদ",
+            "value": "82"
+        },
+        {
+            "area_name" : "নিউ",
+            "value": "83"
+        },
+        {
+            "area_name" : "নিউ",
+            "value": "84"
+        },
+        {
+            "area_name" : "পটিয়া",
+            "value": "85"
+        },
+        {
+            "area_name" : "পতেঙ্গা",
+            "value": "86"
+        },
+        {
+            "area_name" : "পাঁচলাইশ",
+            "value": "87"
+        },
+        {
+            "area_name" : "পাহাড়তলী",
+            "value": "88"
+        },
+        {
+            "area_name" : "ফটিকছড়ি",
+            "value": "89"
+        },
+        {
+            "area_name" : "বন্দর",
+            "value": "90"
+        },
+        {
+            "area_name" : "বহদ্দারহাট",
+            "value": "91"
+        },
+        {
+            "area_name" : "বাঁশখালী",
+            "value": "92"
+        },
+        {
+            "area_name" : "বাকুলিয়া",
+            "value": "93"
+        },
+        {
+            "area_name" : "বায়েজিদ",
+            "value": "94"
+        },
+        {
+            "area_name" : "বোয়ালখালী",
+            "value": "95"
+        },
+        {
+            "area_name" : "ভুজপুর",
+            "value": "96"
+        },
+        {
+            "area_name" : "মীরসরাই",
+            "value": "97"
+        },
+        {
+            "area_name" : "মুরাদপুর",
+            "value": "98"
+        },
+        {
+            "area_name" : "রাউজান",
+            "value": "99"
+        },
+        {
+            "area_name" : "রাঙ্গুনিয়া",
+            "value": "100"
+        },
+        {
+            "area_name" : "লাভ লেন",
+            "value": "101"
+        },
+        {
+            "area_name" : "লালখান বাজার",
+            "value": "102"
+        },
+        {
+            "area_name" : "লোহাগাড়া",
+            "value": "103"
+        },
+        {
+            "area_name" : "সদরঘাট",
+            "value": "104"
+        },
+        {
+            "area_name" : "সন্দ্বীপ",
+            "value": "105"
+        },
+        {
+            "area_name" : "সাতকানিয়া",
+            "value": "106"
+        },
+        {
+            "area_name" : "সীতাকুন্ড",
+            "value": "107"
+        },
+        {
+            "area_name" : "হাটহাজারী",
+            "value": "108"
+        }
+    ]
+  },
+  {
+    "district_name": "চুয়াডাঙ্গা",
+    "value": 10,
+    "area": [
+        {
+            "area_name" : "আলমডাঙ্গা",
+            "value": "109"
+        },
+        {
+            "area_name" : "চুয়াডাঙ্গা সদর",
+            "value": "110"
+        },
+        {
+            "area_name" : "জীবননগর",
+            "value": "111"
+        },
+        {
+            "area_name" : "দামুড়হুদা",
+            "value": "112"
+        }
+    ]
+},
+{
+    "district_name": "কক্সবাজার",
+    "value": 11,
+    "area": [
+        {
+            "area_name": "উখিয়া",
+            "value": "113"
+        },
+        {
+            "area_name": "কক্সবাজার সদর",
+            "value": "114"
+        },
+        {
+            "area_name": "কুতুবদিয়া",
+            "value": "115"
+        },
+        {
+            "area_name": "চকরিয়া",
+            "value": "116"
+        },
+        {
+            "area_name": "টেকনাফ",
+            "value": "117"
+        },
+        {
+            "area_name": "পেকুয়া",
+            "value": "118"
+        },
+        {
+            "area_name": "মহেশখালী",
+            "value": "119"
+        },
+        {
+            "area_name": "রামু",
+            "value": "120"
+        }
+    ]
+},
+{
+    "district_name": "কুমিল্লা",
+    "value": 12,
+    "area": [
+        {
+            "area_name" : "কুমিল্লা সদর",
+            "value": "121"
+        },
+        {
+            "area_name" : "চান্দিনা",
+            "value": "122"
+        },
+        {
+            "area_name" : "চৌদ্দগ্রাম",
+            "value": "123"
+        },
+        {
+            "area_name" : "তিতাস",
+            "value": "124"
+        },
+        {
+            "area_name" : "দাউদকান্দি",
+            "value": "125"
+        },
+        {
+            "area_name" : "দেবিদ্বার",
+            "value": "126"
+        },
+        {
+            "area_name" : "নাঙ্গলকোট",
+            "value": "127"
+        },
+        {
+            "area_name" : "বরুড়া",
+            "value": "128"
+        },
+        {
+            "area_name" : "বুড়িচং",
+            "value": "129"
+        },
+        {
+            "area_name" : "ব্রাহ্মণপাড়া",
+            "value": "130"
+        },
+        {
+            "area_name" : "মনোহরগঞ্জ",
+            "value": "131"
+        },
+        {
+            "area_name" : "মুরাদনগর",
+            "value": "132"
+        },
+        {
+            "area_name" : "মেঘনা",
+            "value": "133"
+        },
+        {
+            "area_name" : "লাকসাম",
+            "value": "134"
+        },
+        {
+            "area_name" : "লালমাই",
+            "value": "135"
+        },
+        {
+            "area_name" : "সদর দক্ষিণ",
+            "value": "136"
+        },
+        {
+            "area_name" : "হোমনা",
+            "value": "137"
+        }
+    ]
+},
+{
+    "district_name": "ঢাকা সিটি",
+    "value": 13,
+    "area" : [
+        {
+            "area_name": "আগারগাঁও",
+            "value":"138"
+        },
+        {
+            "area_name": "আজিমপুর",
+            "value":"139"
+        },
+        {
+            "area_name": "আদাবর",
+            "value":"140"
+        },
+        {
+            "area_name": "ইব্রাহিমপুর",
+            "value":"141"
+        },
+        {
+            "area_name": "ইসলামপুর",
+            "value":"142"
+        },
+        {
+            "area_name": "ইস্কাটন",
+            "value":"143"
+        },
+        {
+            "area_name": "উত্তর খান",
+            "value":"144"
+        },
+        {
+            "area_name": "উত্তরা",
+            "value":"145"
+        },
+        {
+            "area_name": "এ্যালিফেন্ট রোড",
+            "value":"146"
+        },
+        {
+            "area_name": "ওয়ারী",
+            "value":"147"
+        },
+        {
+            "area_name": "কদমতলী",
+            "value":"148"
+        },
+        {
+            "area_name": "কমলাপুর",
+            "value":"149"
+        },
+        {
+            "area_name": "কলাবাগান",
+            "value":"150"
+        },
+        {
+            "area_name": "কল্যাণপুর",
+            "value":"151"
+        },
+        {
+            "area_name": "কাওরানবাজার",
+            "value":"152"
+        },
+        {
+            "area_name": "কাকরাইল",
+            "value":"153"
+        },
+        {
+            "area_name": "কাজীপাড়া",
+            "value":"154"
+        },
+        {
+            "area_name": "কাঠালবাগান",
+            "value":"155"
+        },
+        {
+            "area_name": "কাফরুল",
+            "value":"156"
+        },
+        {
+            "area_name": "কামরঙ্গীরচর",
+            "value":"157"
+        },
+        {
+            "area_name": "কোতয়ালী",
+            "value":"158"
+        },
+        {
+            "area_name": "ক্যান্টনমেন্ট",
+            "value":"159"
+        },
+        {
+            "area_name": "খিলখেত",
+            "value":"160"
+        },
+        {
+            "area_name": "খিলগাঁও",
+            "value":"161"
+        },
+        {
+            "area_name": "গাবতলী",
+            "value":"162"
+        },
+        {
+            "area_name": "গুলশান-১",
+            "value":"163"
+        },
+        {
+            "area_name": "গুলশান-২",
+            "value":"164"
+        },
+        {
+            "area_name": "গুলিস্থান",
+            "value":"165"
+        },
+        {
+            "area_name": "গেন্ডারিয়া",
+            "value":"166"
+        },
+        {
+            "area_name": "গ্রীন রোড",
+            "value":"167"
+        },
+        {
+            "area_name": "চকবাজার",
+            "value":"168"
+        },
+        {
+            "area_name": "জিগাতলা",
+            "value":"169"
+        },
+        {
+            "area_name": "জুরাইন",
+            "value":"170"
+        },
+        {
+            "area_name": "টিকাটুলি",
+            "value":"171"
+        },
+        {
+            "area_name": "ডিইউ ক্যাম্পাস",
+            "value":"172"
+        },
+        {
+            "area_name": "ডেমরা",
+            "value":"173"
+        },
+        {
+            "area_name": "তুরাগ",
+            "value":"174"
+        },
+        {
+            "area_name": "তেজকুনিপাড়া",
+            "value":"175"
+        },
+        {
+            "area_name": "তেজগাঁও",
+            "value":"176"
+        },
+        {
+            "area_name": "দক্ষিণ খান",
+            "value":"177"
+        },
+        {
+            "area_name": "দয়াগঞ্জ",
+            "value":"178"
+        },
+        {
+            "area_name": "দিয়াবাড়ী",
+            "value":"179"
+        },
+        {
+            "area_name": "ধানমন্ডি",
+            "value":"180"
+        },
+        {
+            "area_name": "নয়া পল্টন",
+            "value":"181"
+        },
+        {
+            "area_name": "নাখালপাড়া",
+            "value":"182"
+        },
+        {
+            "area_name": "নারিন্দা",
+            "value":"183"
+        },
+        {
+            "area_name": "নিউ ইস্কাটন",
+            "value":"184"
+        },
+        {
+            "area_name": "নিউ মার্কেট",
+            "value":"185"
+        },
+        {
+            "area_name": "নিকুঞ্জ",
+            "value":"186"
+        },
+        {
+            "area_name": "নিকেতন",
+            "value":"187"
+        },
+        {
+            "area_name": "নীলক্ষেত",
+            "value":"188"
+        },
+        {
+            "area_name": "পলাশী",
+            "value":"189"
+        },
+        {
+            "area_name": "পল্লবী",
+            "value":"190"
+        },
+        {
+            "area_name": "পান্থপথ",
+            "value":"191"
+        },
+        {
+            "area_name": "পুরানা পল্টন",
+            "value":"192"
+        },
+        {
+            "area_name": "পূর্বাচল",
+            "value":"193"
+        },
+        {
+            "area_name": "পোস্তগোলা",
+            "value":"194"
+        },
+        {
+            "area_name": "ফার্মগেট",
+            "value":"195"
+        },
+        {
+            "area_name": "বংশাল",
+            "value":"196"
+        },
+        {
+            "area_name": "বকশীবাজার",
+            "value":"197"
+        },
+        {
+            "area_name": "বনশ্রী",
+            "value":"198"
+        },
+        {
+            "area_name": "বনানী",
+            "value":"199"
+        },
+        {
+            "area_name": "বনানী ডিওএইচএস",
+            "value":"200"
+        },
+        {
+            "area_name": "বসুন্ধরা",
+            "value":"201"
+        },
+        {
+            "area_name": "বাংলাবাজার",
+            "value":"202"
+        },
+        {
+            "area_name": "বাংলামটর",
+            "value":"203"
+        },
+        {
+            "area_name": "বাড্ডা",
+            "value":"204"
+        },
+        {
+            "area_name": "বারিধারা",
+            "value":"205"
+        },
+        {
+            "area_name": "বারিধারা ডিওএইচএস",
+            "value":"206"
+        },
+        {
+            "area_name": "বাসাবো",
+            "value":"207"
+        },
+        {
+            "area_name": "বিমানবন্দর থানা",
+            "value":"208"
+        },
+        {
+            "area_name": "বুয়েট ক্যাম্পাস",
+            "value":"209"
+        },
+        {
+            "area_name": "মগবাজার",
+            "value":"210"
+        },
+        {
+            "area_name": "মতিঝিল",
+            "value":"211"
+        },
+        {
+            "area_name": "মধ্য বাড্ডা",
+            "value":"212"
+        },
+        {
+            "area_name": "মধ্য ভাটারা",
+            "value":"213"
+        },
+        {
+            "area_name": "মহাখালী",
+            "value":"214"
+        },
+        {
+            "area_name": "মহাখালী ডিওএইচএস",
+            "value":"215"
+        },
+        {
+            "area_name": "মালিবাগ",
+            "value":"216"
+        },
+        {
+            "area_name": "মিরপুর",
+            "value":"217"
+        },
+        {
+            "area_name": "মিরপুর ডিওএইচএস",
+            "value":"218"
+        },
+        {
+            "area_name": "মিরপুর-১",
+            "value":"219"
+        },
+        {
+            "area_name": "মিরপুর-১০",
+            "value":"220"
+        },
+        {
+            "area_name": "মিরপুর-১১",
+            "value":"221"
+        },
+        {
+            "area_name": "মিরপুর-১২",
+            "value":"222"
+        },
+        {
+            "area_name": "মিরপুর-২",
+            "value":"223"
+        },
+        {
+            "area_name": "মুগদা",
+            "value":"224"
+        },
+        {
+            "area_name": "মোহাম্মদপুর",
+            "value":"225"
+        },
+        {
+            "area_name": "যাত্রাবাড়ী",
+            "value":"226"
+        },
+        {
+            "area_name": "রমনা",
+            "value":"227"
+        },
+        {
+            "area_name": "রাজাবাজার",
+            "value":"228"
+        },
+        {
+            "area_name": "রাজারবাগ",
+            "value":"229"
+        },
+        {
+            "area_name": "রামপুরা",
+            "value":"230"
+        },
+        {
+            "area_name": "রায়েরবাজার",
+            "value":"231"
+        },
+        {
+            "area_name": "রূপনগর",
+            "value":"232"
+        },
+        {
+            "area_name": "লালবাগ",
+            "value":"233"
+        },
+        {
+            "area_name": "লালমাটিয়া",
+            "value":"234"
+        },
+        {
+            "area_name": "শান্তিনগর",
+            "value":"235"
+        },
+        {
+            "area_name": "শাহজাদপুর",
+            "value":"236"
+        },
+        {
+            "area_name": "শাহজানপুর",
+            "value":"237"
+        },
+        {
+            "area_name": "শাহবাগ",
+            "value":"238"
+        },
+        {
+            "area_name": "শিমরাইল",
+            "value":"239"
+        },
+        {
+            "area_name": "শুক্রাবাদ",
+            "value":"240"
+        },
+        {
+            "area_name": "শেরে বাংলা নগর",
+            "value":"241"
+        },
+        {
+            "area_name": "শ্যামপুর",
+            "value":"242"
+        },
+        {
+            "area_name": "শ্যামলী",
+            "value":"243"
+        },
+        {
+            "area_name": "সদরঘাট",
+            "value":"244"
+        },
+        {
+            "area_name": "সবুজবাগ",
+            "value":"245"
+        },
+        {
+            "area_name": "সিদ্ধেশ্বরী",
+            "value":"246"
+        },
+        {
+            "area_name": "সূত্রাপুর",
+            "value":"247"
+        },
+        {
+            "area_name": "সেগুনবাগিচা",
+            "value":"248"
+        },
+        {
+            "area_name": "হাজারীবাগ",
+            "value":"249"
+        },
+        {
+            "area_name": "হাতিরপুল",
+            "value":"250"
+        }
+    ]
+},
+{
+    "district_name": "ঢাকা উপজেলা",
+    "value": 14,
+    "area" : [
+        {
+            "area_name": "দোহার",
+            "value":"251"
+        },
+        {
+            "area_name": "ধামরাই",
+            "value":"252"
+        },
+        {
+            "area_name": "সাভার",
+            "value":"253"
+        },
+        {
+            "area_name": "নবাবগঞ্জ",
+            "value":"254"
+        },
+        {
+            "area_name": "কেরানীগঞ্জ",
+            "value":"255"
+        }
+    ]
+},
+{
+    "district_name": "দিনাজপুর",
+    "value": 15,
+    "area" : [
+        {
+            "area_name": "কাহারোল",
+            "value":"256"
+        },
+        {
+            "area_name": "খানসামা",
+            "value":"257"
+        },
+        {
+            "area_name": "ঘোড়াঘাট",
+            "value":"258"
+        },
+        {
+            "area_name": "চিরিরবন্দর",
+            "value":"259"
+        },
+        {
+            "area_name": "দিনাজপুর সদর",
+            "value":"260"
+        },
+        {
+            "area_name": "নবাবগঞ্জ",
+            "value":"261"
+        },
+        {
+            "area_name": "পার্বতীপুর",
+            "value":"262"
+        },
+        {
+            "area_name": "ফুলবাড়ী",
+            "value":"263"
+        },
+        {
+            "area_name": "বিরল",
+            "value":"264"
+        },
+        {
+            "area_name": "বিরামপুর",
+            "value":"265"
+        },
+        {
+            "area_name": "বীরগঞ্জ",
+            "value":"266"
+        },
+        {
+            "area_name": "বোচাগঞ্জ",
+            "value":"267"
+        },
+        {
+            "area_name": "হাকিমপুর",
+            "value":"268"
+        }
+    ]
+},
+{
+    "district_name": "ফরিদপুর",
+    "value": 16,
+    "area": [
+        {
+            "area_name": "আলফাডাঙ্গা",
+            "value": "269"
+        },
+        {
+            "area_name": "চরভদ্রাসন",
+            "value": "270"
+        },
+        {
+            "area_name": "নগরকান্দা",
+            "value": "271"
+        },
+        {
+            "area_name": "ফরিদপুর সদর",
+            "value": "272"
+        },
+        {
+            "area_name": "বোয়ালমারী",
+            "value": "273"
+        },
+        {
+            "area_name": "ভাঙ্গা",
+            "value": "274"
+        },
+        {
+            "area_name": "মধুখালী",
+            "value": "275"
+        },
+        {
+            "area_name": "সদরপুর",
+            "value": "276"
+        },
+        {
+            "area_name": "সালথা",
+            "value": "277"
+        }
+    ]
+},
+{
+    "district_name": "ফেনী",
+    "value": 17,
+    "area" : [
+        {
+            "area_name": "ছাগলনাইয়া",
+            "value":"278"
+        },
+        {
+            "area_name": "দাগনভূঞা",
+            "value":"279"
+        },
+        {
+            "area_name": "পরশুরাম",
+            "value":"280"
+        },
+        {
+            "area_name": "ফুলগাজী",
+            "value":"281"
+        },
+        {
+            "area_name": "ফেনী সদর",
+            "value":"282"
+        },
+        {
+            "area_name": "সোনাগাজী",
+            "value":"283"
+        }
+    ]
+},
+{
+    "district_name": "গাইবান্ধা",
+    "value": 18,
+    "area" : [
+        {
+            "area_name": "গাইবান্ধা সদর",
+            "value":"284"
+        },
+        {
+            "area_name": "গোবিন্দগঞ্জ",
+            "value":"285"
+        },
+        {
+            "area_name": "পলাশবাড়ী",
+            "value":"286"
+        },
+        {
+            "area_name": "ফুলছড়ি",
+            "value":"287"
+        },
+        {
+            "area_name": "সাঘাটা",
+            "value":"288"
+        },
+        {
+            "area_name": "সাদুল্লাপুর",
+            "value":"289"
+        },
+        {
+            "area_name": "সুন্দরগঞ্জ",
+            "value":"290"
+        }
+    ]
+},
+{
+    "district_name": "গাজীপুর",
+    "value": 19,
+    "area" : [
+        {
+            "area_name": "কাপাসিয়া",
+            "value":"291"
+        },
+        {
+            "area_name": "কালিয়াকৈর",
+            "value":"292"
+        },
+        {
+            "area_name": "কালীগঞ্জ",
+            "value":"293"
+        },
+        {
+            "area_name": "গাজীপুর সদর",
+            "value":"294"
+        },
+        {
+            "area_name": "শ্রীপুর",
+            "value":"295"
+        }
+    ]
+},
+{
+    "district_name": "গোপালগঞ্জ",
+    "value": 20,
+    "area" : [
+        {
+            "area_name": "কাশিয়ানী",
+            "value":"296"
+        },
+        {
+            "area_name": "কোটালীপাড়া",
+            "value":"297"
+        },
+        {
+            "area_name": "টুংগীপাড়া",
+            "value":"298"
+        },
+        {
+            "area_name": "গোপালগঞ্জ সদর",
+            "value":"299"
+        },
+        {
+            "area_name": "মুকসুদপুর",
+            "value":"300"
+        }
+    ]
+},
+{
+    "district_name": "হবিগঞ্জ",
+    "value": 21,
+    "area" : [
+        {
+            "area_name": "আজমিরীগঞ্জ",
+            "value":"301"
+        },
+        {
+            "area_name": "চুনারুঘাট",
+            "value":"302"
+        },
+        {
+            "area_name": "নবীগঞ্জ",
+            "value":"303"
+        },
+        {
+            "area_name": "বানিয়াচং",
+            "value":"304"
+        },
+        {
+            "area_name": "বাহুবল",
+            "value":"305"
+        },
+        {
+            "area_name": "মাধবপুর",
+            "value":"306"
+        },
+        {
+            "area_name": "লাখাই",
+            "value":"307"
+        },
+        {
+            "area_name": "হবিগঞ্জ সদর",
+            "value":"308"
+        }
+    ]
+},
+{
+    "district_name": "জামালপুর",
+    "value": 22,
+    "area" : [
+        {
+            "area_name": "ইসলামপুর",
+            "value":"309"
+        },
+        {
+            "area_name": "জামালপুর সদর",
+            "value":"310"
+        },
+        {
+            "area_name": "দেওয়ানগঞ্জ",
+            "value":"311"
+        },
+        {
+            "area_name": "বকশীগঞ্জ",
+            "value":"312"
+        },
+        {
+            "area_name": "মাদারগঞ্জ",
+            "value":"313"
+        },
+        {
+            "area_name": "মেলান্দহ",
+            "value":"314"
+        },
+        {
+            "area_name": "সরিষাবাড়ী",
+            "value":"315"
+        }
+    ]
+},
+{
+    "district_name": "যশোর",
+    "value": 23,
+    "area" : [
+        {
+            "area_name": "অভয়নগর",
+            "value":"316"
+        },
+        {
+            "area_name": "কেশবপুর",
+            "value":"317"
+        },
+        {
+            "area_name": "চৌগাছা",
+            "value":"318"
+        },
+        {
+            "area_name": "ঝিকরগাছা",
+            "value":"319"
+        },
+        {
+            "area_name": "বাঘারপাড়া",
+            "value":"320"
+        },
+        {
+            "area_name": "মণিরামপুর",
+            "value":"321"
+        },
+        {
+            "area_name": "শার্শা",
+            "value":"322"
+        },
+        {
+            "area_name": "যশোর সদর",
+            "value":"323"
+        }
+    ]
+},
+{
+    "district_name": "ঝালকাঠি",
+    "value": 24,
+    "area" : [
+        {
+            "area_name": "কাঠালিয়া",
+            "value":"324"
+        },
+        {
+            "area_name": "ঝালকাঠি সদর",
+            "value":"325"
+        },
+        {
+            "area_name": "নলছিটি",
+            "value":"326"
+        },
+        {
+            "area_name": "রাজাপুর",
+            "value":"327"
+        }
+    ]
+},
+{
+    "district_name": "ঝিনাইদহ",
+    "value": 25,
+    "area" : [
+        {
+            "area_name": "কালীগঞ্জ",
+            "value":"328"
+        },
+        {
+            "area_name": "কোটচাঁদপুর",
+            "value":"329"
+        },
+        {
+            "area_name": "ঝিনাইদহ সদর",
+            "value":"330"
+        },
+        {
+            "area_name": "মহেশপুর",
+            "value":"331"
+        },
+        {
+            "area_name": "শৈলকুপা",
+            "value":"332"
+        },
+        {
+            "area_name": "হরিণাকুন্ডু",
+            "value":"333"
+        }
+    ]
+},
+{
+    "district_name": "জয়পুরহাট",
+    "value": 26,
+    "area" : [
+        {
+            "area_name": "আক্কেলপুর",
+            "value":"334"
+        },
+        {
+            "area_name": "কালাই",
+            "value":"335"
+        },
+        {
+            "area_name": "ক্ষেতলাল",
+            "value":"336"
+        },
+        {
+            "area_name": "জয়পুরহাট সদর",
+            "value":"337"
+        },
+        {
+            "area_name": "পাঁচবিবি",
+            "value":"338"
+        }
+    ]
+},
+{
+    "district_name": "খাগড়াছড়ি",
+    "value": 27,
+    "area": [
+        {
+            "area_name": "খাগড়াছড়ি সদর",
+            "value": "339"
+        },
+        {
+            "area_name": "গুইমারা",
+            "value": "340"
+        },
+        {
+            "area_name": "দিঘীনালা",
+            "value": "341"
+        },
+        {
+            "area_name": "পানছড়ি",
+            "value": "342"
+        },
+        {
+            "area_name": "মহালছড়ি",
+            "value": "343"
+        },
+        {
+            "area_name": "মাটিরাঙ্গা",
+            "value": "344"
+        },
+        {
+            "area_name": "মানিকছড়ি",
+            "value": "345"
+        },
+        {
+            "area_name": "রামগড়",
+            "value": "346"
+        },
+        {
+            "area_name": "লক্ষীছড়ি",
+            "value": "347"
+        }
+    ]
+},
+{
+    "district_name": "খুলনা",
+    "value": 28,
+    "area": [
+        {
+            "area_name": "কয়রা",
+            "value": "348"
+        },
+        {
+            "area_name": "খান জাহান আলী",
+            "value": "349"
+        },
+        {
+            "area_name": "খালিশপুর",
+            "value": "350"
+        },
+        {
+            "area_name": "খুলনা সদর",
+            "value": "351"
+        },
+        {
+            "area_name": "ডুমুরিয়া",
+            "value": "352"
+        },
+        {
+            "area_name": "তেরখাদা",
+            "value": "353"
+        },
+        {
+            "area_name": "দাকোপ",
+            "value": "354"
+        },
+        {
+            "area_name": "দিঘলিয়া",
+            "value": "355"
+        },
+        {
+            "area_name": "দৌলতপুর",
+            "value": "356"
+        },
+        {
+            "area_name": "পাইকগাছা",
+            "value": "357"
+        },
+        {
+            "area_name": "ফুলতলা",
+            "value": "358"
+        },
+        {
+            "area_name": "বটিয়াঘাটা",
+            "value": "359"
+        },
+        {
+            "area_name": "রূপসা",
+            "value": "360"
+        },
+        {
+            "area_name": "সোনাডাঙ্গা",
+            "value": "361"
+        }
+    ]
+},
+{
+    "district_name": "কিশোরগঞ্জ",
+    "value": 29,
+    "area": [
+        {
+            "area_name": "অষ্টগ্রাম",
+            "value": "362"
+        },
+        {
+            "area_name": "ইটনা",
+            "value": "363"
+        },
+        {
+            "area_name": "কটিয়াদী",
+            "value": "364"
+        },
+        {
+            "area_name": "করিমগঞ্জ",
+            "value": "365"
+        },
+        {
+            "area_name": "কিশোরগঞ্জ সদর",
+            "value": "366"
+        },
+        {
+            "area_name": "কুলিয়ারচর",
+            "value": "367"
+        },
+        {
+            "area_name": "তাড়াইল",
+            "value": "368"
+        },
+        {
+            "area_name": "নিকলী",
+            "value": "369"
+        },
+        {
+            "area_name": "পাকুন্দিয়া",
+            "value": "370"
+        },
+        {
+            "area_name": "বাজিতপুর",
+            "value": "371"
+        },
+        {
+            "area_name": "ভৈরব",
+            "value": "372"
+        },
+        {
+            "area_name": "মিঠামইন",
+            "value": "373"
+        },
+        {
+            "area_name": "হোসেনপুর",
+            "value": "374"
+        }
+    ]
+},
+{
+    "district_name": "কুড়িগ্রাম",
+    "value": 30,
+    "area": [
+        {
+            "area_name": "উলিপুর",
+            "value": "375"
+        },
+        {
+            "area_name": "কুড়িগ্রাম সদর",
+            "value": "376"
+        },
+        {
+            "area_name": "চর রাজিবপুর",
+            "value": "377"
+        },
+        {
+            "area_name": "চিলমারী",
+            "value": "378"
+        },
+        {
+            "area_name": "নাগেশ্বরী",
+            "value": "379"
+        },
+        {
+            "area_name": "ফুলবাড়ী",
+            "value": "380"
+        },
+        {
+            "area_name": "ভুরুঙ্গামারী",
+            "value": "381"
+        },
+        {
+            "area_name": "রাজারহাট",
+            "value": "382"
+        },
+        {
+            "area_name": "রৌমারী",
+            "value": "383"
+        }
+    ]
+},
+{
+    "district_name": "কুষ্টিয়া",
+    "value": 31,
+    "area": [
+        {
+            "area_name": "কুমারখালী",
+            "value": "384"
+        },
+        {
+            "area_name": "কুষ্টিয়া সদর",
+            "value": "385"
+        },
+        {
+            "area_name": "খোকসা",
+            "value": "386"
+        },
+        {
+            "area_name": "দৌলতপুর",
+            "value": "387"
+        },
+        {
+            "area_name": "ভেড়ামারা",
+            "value": "388"
+        },
+        {
+            "area_name": "মিরপুর",
+            "value": "389"
+        }
+    ]
+},
+{
+    "district_name": "লক্ষ্মীপুর",
+    "value": 32,
+    "area": [
+        {
+            "area_name": "কমলনগর",
+            "value": "390"
+        },
+        {
+            "area_name": "রামগঞ্জ",
+            "value": "391"
+        },
+        {
+            "area_name": "রামগতি",
+            "value": "392"
+        },
+        {
+            "area_name": "রায়পুর",
+            "value": "393"
+        },
+        {
+            "area_name": "লক্ষ্মীপুর সদর",
+            "value": "394"
+        }
+    ]
+},
+{
+    "district_name": "লালমনিরহাট",
+    "value": 33,
+    "area": [
+        {
+            "area_name": "আদিতমারী",
+            "value": "395"
+        },
+        {
+            "area_name": "কালীগঞ্জ",
+            "value": "396"
+        },
+        {
+            "area_name": "পাটগ্রাম",
+            "value": "397"
+        },
+        {
+            "area_name": "লালমনিরহাট সদর",
+            "value": "398"
+        },
+        {
+            "area_name": "হাতীবান্ধা",
+            "value": "399"
+        }
+    ]
+},
+{
+    "district_name": "মাদারীপুর",
+    "value": 34,
+    "area": [
+        {
+            "area_name": "কালকিনি",
+            "value": "400"
+        },
+        {
+            "area_name": "মাদারীপুর সদর",
+            "value": "401"
+        },
+        {
+            "area_name": "রাজৈর",
+            "value": "402"
+        },
+        {
+            "area_name": "শিবচর",
+            "value": "403"
+        }
+    ]
+},
+{
+    "district_name": "মাগুরা",
+    "value": 35,
+    "area": [
+        {
+            "area_name": "মহম্মদপুর",
+            "value": "404"
+        },
+        {
+            "area_name": "মাগুরা সদর",
+            "value": "405"
+        },
+        {
+            "area_name": "শালিখা",
+            "value": "406"
+        },
+        {
+            "area_name": "শ্রীপুর",
+            "value": "407"
+        }
+    ]
+},
+{
+    "district_name": "মানিকগঞ্জ",
+    "value": 36,
+    "area": [
+        {
+            "area_name": "ঘিওর",
+            "value": "408"
+        },
+        {
+            "area_name": "দৌলতপুর",
+            "value": "409"
+        },
+        {
+            "area_name": "মানিকগঞ্জ সদর",
+            "value": "410"
+        },
+        {
+            "area_name": "শিবালয়",
+            "value": "411"
+        },
+        {
+            "area_name": "সাটুরিয়া",
+            "value": "412"
+        },
+        {
+            "area_name": "সিংগাইর",
+            "value": "413"
+        },
+        {
+            "area_name": "হরিরামপুর",
+            "value": "414"
+        }
+    ]
+},
+{
+    "district_name": "মেহেরপুর",
+    "value": 37,
+    "area": [
+        {
+            "area_name": "গাংনী",
+            "value": "415"
+        },
+        {
+            "area_name": "মুজিবনগর",
+            "value": "416"
+        },
+        {
+            "area_name": "মেহেরপুর সদর",
+            "value": "417"
+        }
+    ]
+},
+{
+    "district_name": "মৌলভীবাজার",
+    "value": 38,
+    "area": [
+        {
+            "area_name": "কমলগঞ্জ",
+            "value": "418"
+        },
+        {
+            "area_name": "কুলাউড়া",
+            "value": "419"
+        },
+        {
+            "area_name": "জুড়ী",
+            "value": "420"
+        },
+        {
+            "area_name": "বড়লেখা",
+            "value": "421"
+        },
+        {
+            "area_name": "মৌলভীবাজার সদর",
+            "value": "422"
+        },
+        {
+            "area_name": "রাজনগর",
+            "value": "423"
+        },
+        {
+            "area_name": "শ্রীমঙ্গল",
+            "value": "424"
+        }
+    ]
+},
+{
+    "district_name": "মুন্সিগঞ্জ",
+    "value": 39,
+    "area": [
+        {
+            "area_name": "গজারিয়া",
+            "value": "425"
+        },
+        {
+            "area_name": "টংগীবাড়ি",
+            "value": "426"
+        },
+        {
+            "area_name": "মুন্সিগঞ্জ সদর",
+            "value": "427"
+        },
+        {
+            "area_name": "লৌহজং",
+            "value": "428"
+        },
+        {
+            "area_name": "শ্রীনগর",
+            "value": "429"
+        },
+        {
+            "area_name": "সিরাজদিখান",
+            "value": "430"
+        }
+    ]
+},
+{
+    "district_name": "ময়মনসিংহ",
+    "value": 40,
+    "area": [
+        {
+            "area_name": "ঈশ্বরগঞ্জ",
+            "value": "431"
+        },
+        {
+            "area_name": "গফরগাঁও",
+            "value": "432"
+        },
+        {
+            "area_name": "গৌরীপুর",
+            "value": "433"
+        },
+        {
+            "area_name": "তারাকান্দা",
+            "value": "434"
+        },
+        {
+            "area_name": "ত্রিশাল",
+            "value": "435"
+        },
+        {
+            "area_name": "ধোবাউড়া",
+            "value": "436"
+        },
+        {
+            "area_name": "নান্দাইল",
+            "value": "437"
+        },
+        {
+            "area_name": "ফুলপুর",
+            "value": "438"
+        },
+        {
+            "area_name": "ফুলবাড়ীয়া",
+            "value": "439"
+        },
+        {
+            "area_name": "ভালুকা",
+            "value": "440"
+        },
+        {
+            "area_name": "মুক্তাগাছা",
+            "value": "441"
+        },
+        {
+            "area_name": "ময়মনসিংহ সদর",
+            "value": "442"
+        },
+        {
+            "area_name": "হালুয়াঘাট",
+            "value": "443"
+        }
+    ]
+},
+{
+    "district_name": "নওগাঁ",
+    "value": 41,
+    "area": [
+        {
+            "area_name": "আত্রাই",
+            "value": "444"
+        },
+        {
+            "area_name": "ধামইরহাট",
+            "value": "445"
+        },
+        {
+            "area_name": "নওগাঁ সদর",
+            "value": "446"
+        },
+        {
+            "area_name": "নিয়ামতপুর",
+            "value": "447"
+        },
+        {
+            "area_name": "পত্নিতলা",
+            "value": "448"
+        },
+        {
+            "area_name": "পোরশা",
+            "value": "449"
+        },
+        {
+            "area_name": "বদলগাছী",
+            "value": "450"
+        },
+        {
+            "area_name": "মহাদেবপুর",
+            "value": "451"
+        },
+        {
+            "area_name": "মান্দা",
+            "value": "452"
+        },
+        {
+            "area_name": "রাণীনগর",
+            "value": "453"
+        },
+        {
+            "area_name": "সাপাহার",
+            "value": "454"
+        }
+    ]
+},
+{
+    "district_name": "নড়াইল",
+    "value": 42,
+    "area": [
+        {
+            "area_name": "কালিয়া",
+            "value": "455"
+        },
+        {
+            "area_name": "নড়াইল সদর",
+            "value": "456"
+        },
+        {
+            "area_name": "লোহাগড়া",
+            "value": "457"
+        }
+    ]
+},
+{
+    "district_name": "নারায়নগঞ্জ",
+    "value": 43,
+    "area": [
+        {
+            "area_name": "আড়াইহাজার",
+            "value": "458"
+        },
+        {
+            "area_name": "নারায়নগঞ্জ সদর",
+            "value": "459"
+        },
+        {
+            "area_name": "ফতুল্লা",
+            "value": "460"
+        },
+        {
+            "area_name": "বন্দর",
+            "value": "461"
+        },
+        {
+            "area_name": "রূপগঞ্জ",
+            "value": "462"
+        },
+        {
+            "area_name": "সিদ্ধিরগঞ্জ",
+            "value": "463"
+        },
+        {
+            "area_name": "সোনারগাঁ",
+            "value": "464"
+        }
+    ]
+},
+{
+    "district_name": "নরসিংদী",
+    "value": 44,
+    "area": [
+        {
+            "area_name": "নরসিংদী সদর",
+            "value": "465"
+        },
+        {
+            "area_name": "পলাশ",
+            "value": "466"
+        },
+        {
+            "area_name": "বেলাবো",
+            "value": "467"
+        },
+        {
+            "area_name": "মনোহরদী",
+            "value": "468"
+        },
+        {
+            "area_name": "রায়পুরা",
+            "value": "469"
+        },
+        {
+            "area_name": "শিবপুর",
+            "value": "470"
+        }
+    ]
+},
+{
+    "district_name": "নাটোর",
+    "value": 45,
+    "area": [
+        {
+            "area_name": "গুরুদাসপুর",
+            "value": "471"
+        },
+        {
+            "area_name": "নলডাঙ্গা",
+            "value": "472"
+        },
+        {
+            "area_name": "নাটোর সদর",
+            "value": "473"
+        },
+        {
+            "area_name": "বড়াইগ্রাম",
+            "value": "474"
+        },
+        {
+            "area_name": "বাগাতিপাড়া",
+            "value": "475"
+        },
+        {
+            "area_name": "লালপুর",
+            "value": "476"
+        },
+        {
+            "area_name": "সিংড়া",
+            "value": "477"
+        }
+    ]
+},
+{
+    "district_name": "চাঁপাইনবাবগঞ্জ",
+    "value": 46,
+    "area": [
+        {
+            "area_name": "গোমস্তাপুর",
+            "value": "478"
+        },
+        {
+            "area_name": "চাঁপাইনবাবগঞ্জ সদর",
+            "value": "479"
+        },
+        {
+            "area_name": "নাচোল",
+            "value": "480"
+        },
+        {
+            "area_name": "ভোলাহাট",
+            "value": "481"
+        },
+        {
+            "area_name": "শিবগঞ্জ",
+            "value": "482"
+        }
+    ]
+},
+{
+    "district_name": "নেত্রকোণা",
+    "value": 47,
+    "area": [
+        {
+            "area_name": "আটপাড়া",
+            "value": "483"
+        },
+        {
+            "area_name": "কলমাকান্দা",
+            "value": "484"
+        },
+        {
+            "area_name": "কেন্দুয়া",
+            "value": "485"
+        },
+        {
+            "area_name": "খালিয়াজুরী",
+            "value": "486"
+        },
+        {
+            "area_name": "দুর্গাপুর",
+            "value": "487"
+        },
+        {
+            "area_name": "নেত্রকোণা সদর",
+            "value": "488"
+        },
+        {
+            "area_name": "পূর্বধলা",
+            "value": "489"
+        },
+        {
+            "area_name": "বারহাট্টা",
+            "value": "490"
+        },
+        {
+            "area_name": "মদন",
+            "value": "491"
+        },
+        {
+            "area_name": "মোহনগঞ্জ",
+            "value": "492"
+        }
+    ]
+},
+{
+    "district_name": "নীলফামারী",
+    "value": 48,
+    "area": [
+        {
+            "area_name": "কিশোরগঞ্জ",
+            "value": "493"
+        },
+        {
+            "area_name": "জলঢাকা",
+            "value": "494"
+        },
+        {
+            "area_name": "ডিমলা",
+            "value": "495"
+        },
+        {
+            "area_name": "ডোমার",
+            "value": "496"
+        },
+        {
+            "area_name": "নীলফামারী সদর",
+            "value": "497"
+        },
+        {
+            "area_name": "সৈয়দপুর",
+            "value": "498"
+        }
+    ]
+},
+{
+    "district_name": "নোয়াখালী",
+    "value": 49,
+    "area": [
+        {
+            "area_name": "কবিরহাট",
+            "value": "499"
+        },
+        {
+            "area_name": "কোম্পানীগঞ্জ",
+            "value": "500"
+        },
+        {
+            "area_name": "চাটখিল",
+            "value": "501"
+        },
+        {
+            "area_name": "নোয়াখালী সদর",
+            "value": "502"
+        },
+        {
+            "area_name": "বেগমগঞ্জ",
+            "value": "503"
+        },
+        {
+            "area_name": "সুবর্ণচর",
+            "value": "504"
+        },
+        {
+            "area_name": "সেনবাগ",
+            "value": "505"
+        },
+        {
+            "area_name": "সোনাইমুড়ী",
+            "value": "506"
+        },
+        {
+            "area_name": "হাতিয়া",
+            "value": "507"
+        }
+    ]
+},
+{
+    "district_name": "পাবনা",
+    "value": 50,
+    "area": [
+        {
+            "area_name": "আটঘরিয়া",
+            "value": "508"
+        },
+        {
+            "area_name": "ঈশ্বরদী",
+            "value": "509"
+        },
+        {
+            "area_name": "চাটমোহর",
+            "value": "510"
+        },
+        {
+            "area_name": "পাবনা সদর",
+            "value": "511"
+        },
+        {
+            "area_name": "ফরিদপুর",
+            "value": "512"
+        },
+        {
+            "area_name": "বেড়া",
+            "value": "513"
+        },
+        {
+            "area_name": "ভাঙ্গুড়া",
+            "value": "514"
+        },
+        {
+            "area_name": "সাঁথিয়া",
+            "value": "515"
+        },
+        {
+            "area_name": "সুজানগর",
+            "value": "516"
+        }
+    ]
+},
+{
+    "district_name": "পঞ্চগড়",
+    "value": 51,
+    "area": [
+        {
+            "area_name": "আটোয়ারী",
+            "value": "517"
+        },
+        {
+            "area_name": "তেতুলিয়া",
+            "value": "518"
+        },
+        {
+            "area_name": "দেবীগঞ্জ",
+            "value": "519"
+        },
+        {
+            "area_name": "পঞ্চগড় সদর",
+            "value": "520"
+        },
+        {
+            "area_name": "বোদা",
+            "value": "521"
+        }
+    ]
+},
+{
+    "district_name": "পটুয়াখালী",
+    "value": 52,
+    "area": [
+        {
+            "area_name": "কলাপাড়া",
+            "value": "522"
+        },
+        {
+            "area_name": "গলাচিপা",
+            "value": "523"
+        },
+        {
+            "area_name": "দশমিনা",
+            "value": "524"
+        },
+        {
+            "area_name": "দুমকি",
+            "value": "525"
+        },
+        {
+            "area_name": "পটুয়াখালী সদর",
+            "value": "526"
+        },
+        {
+            "area_name": "বাউফল",
+            "value": "527"
+        },
+        {
+            "area_name": "মির্জাগঞ্জ",
+            "value": "528"
+        },
+        {
+            "area_name": "রাঙ্গাবালী",
+            "value": "529"
+        }
+    ]
+},
+{
+    "district_name": "পিরোজপুর",
+    "value": 53,
+    "area": [
+        {
+            "area_name": "কাউখালী",
+            "value": "530"
+        },
+        {
+            "area_name": "জিয়ানগর",
+            "value": "531"
+        },
+        {
+            "area_name": "নাজিরপুর",
+            "value": "532"
+        },
+        {
+            "area_name": "নেছারাবাদ",
+            "value": "533"
+        },
+        {
+            "area_name": "পিরোজপুর সদর",
+            "value": "534"
+        },
+        {
+            "area_name": "ভান্ডারিয়া",
+            "value": "535"
+        },
+        {
+            "area_name": "মঠবাড়ীয়া",
+            "value": "536"
+        }
+    ]
+},
+{
+    "district_name": "রাজবাড়ী",
+    "value": 54,
+    "area": [
+        {
+            "area_name": "কালুখালী",
+            "value": "537"
+        },
+        {
+            "area_name": "গোয়ালন্দ",
+            "value": "538"
+        },
+        {
+            "area_name": "পাংশা",
+            "value": "539"
+        },
+        {
+            "area_name": "বালিয়াকান্দি",
+            "value": "540"
+        },
+        {
+            "area_name": "রাজবাড়ী সদর",
+            "value": "541"
+        }
+    ]
+},
+{
+    "district_name": "রাজশাহী",
+    "value": 55,
+    "area": [
+        {
+            "area_name": "গোদাগাড়ী",
+            "value": "542"
+        },
+        {
+            "area_name": "চারঘাট",
+            "value": "543"
+        },
+        {
+            "area_name": "তানোর",
+            "value": "544"
+        },
+        {
+            "area_name": "দুর্গাপুর",
+            "value": "545"
+        },
+        {
+            "area_name": "পবা",
+            "value": "546"
+        },
+        {
+            "area_name": "পুঠিয়া",
+            "value": "547"
+        },
+        {
+            "area_name": "বাগমারা",
+            "value": "548"
+        },
+        {
+            "area_name": "বাঘা",
+            "value": "549"
+        },
+        {
+            "area_name": "মোহনপুর",
+            "value": "550"
+        },
+        {
+            "area_name": "রাজশাহী সিটি",
+            "value": "551"
+        }
+    ]
+},
+{
+    "district_name": "রাঙ্গামাটি",
+    "value": 56,
+    "area": [
+        {
+            "area_name": "কাউখালী",
+            "value": "552"
+        },
+        {
+            "area_name": "কাপ্তাই",
+            "value": "553"
+        },
+        {
+            "area_name": "জুরাছড়ি",
+            "value": "554"
+        },
+        {
+            "area_name": "নানিয়ারচর",
+            "value": "555"
+        },
+        {
+            "area_name": "বরকল",
+            "value": "556"
+        },
+        {
+            "area_name": "বাঘাইছড়ি",
+            "value": "557"
+        },
+        {
+            "area_name": "বিলাইছড়ি",
+            "value": "558"
+        },
+        {
+            "area_name": "রাঙ্গামাটি সদর",
+            "value": "559"
+        },
+        {
+            "area_name": "রাজস্থলী",
+            "value": "560"
+        },
+        {
+            "area_name": "লংগদু",
+            "value": "561"
+        }
+    ]
+},
+{
+    "district_name": "রংপুর",
+    "value": 57,
+    "area": [
+        {
+            "area_name": "কাউনিয়া",
+            "value": "562"
+        },
+        {
+            "area_name": "গংগাচড়া",
+            "value": "563"
+        },
+        {
+            "area_name": "তারাগঞ্জ",
+            "value": "564"
+        },
+        {
+            "area_name": "পীরগঞ্জ",
+            "value": "565"
+        },
+        {
+            "area_name": "পীরগাছা",
+            "value": "566"
+        },
+        {
+            "area_name": "বদরগঞ্জ",
+            "value": "567"
+        },
+        {
+            "area_name": "মিঠাপুকুর",
+            "value": "568"
+        },
+        {
+            "area_name": "রংপুর সদর",
+            "value": "569"
+        }
+    ]
+},
+{
+    "district_name": "সাতক্ষীরা",
+    "value": 58,
+    "area": [
+        {
+            "area_name": "আশাশুনি",
+            "value": "570"
+        },
+        {
+            "area_name": "কলারোয়া",
+            "value": "571"
+        },
+        {
+            "area_name": "কালিগঞ্জ",
+            "value": "572"
+        },
+        {
+            "area_name": "তালা",
+            "value": "573"
+        },
+        {
+            "area_name": "দেবহাটা",
+            "value": "574"
+        },
+        {
+            "area_name": "শ্যামনগর",
+            "value": "575"
+        },
+        {
+            "area_name": "সাতক্ষীরা সদর",
+            "value": "576"
+        }
+    ]
+},
+{
+    "district_name": "শরিয়তপুর",
+    "value": 59,
+    "area": [
+        {
+            "area_name": "গোসাইরহাট",
+            "value": "577"
+        },
+        {
+            "area_name": "জাজিরা",
+            "value": "578"
+        },
+        {
+            "area_name": "ডামুড্যা",
+            "value": "579"
+        },
+        {
+            "area_name": "নড়িয়া",
+            "value": "580"
+        },
+        {
+            "area_name": "ভেদরগঞ্জ",
+            "value": "581"
+        },
+        {
+            "area_name": "শরিয়তপুর সদর",
+            "value": "582"
+        }
+    ]
+},
+{
+    "district_name": "শেরপুর",
+    "value": 60,
+    "area": [
+        {
+            "area_name": "ঝিনাইগাতী",
+            "value": "583"
+        },
+        {
+            "area_name": "নকলা",
+            "value": "584"
+        },
+        {
+            "area_name": "নালিতাবাড়ী",
+            "value": "585"
+        },
+        {
+            "area_name": "শেরপুর সদর",
+            "value": "586"
+        },
+        {
+            "area_name": "শ্রীবরদী",
+            "value": "587"
+        }
+    ]
+},
+{
+    "district_name": "সিরাজগঞ্জ",
+    "value": 61,
+    "area": [
+        {
+            "area_name": "উল্লাপাড়া",
+            "value": "588"
+        },
+        {
+            "area_name": "কাজীপুর",
+            "value": "589"
+        },
+        {
+            "area_name": "কামারখন্দ",
+            "value": "590"
+        },
+        {
+            "area_name": "চৌহালি",
+            "value": "591"
+        },
+        {
+            "area_name": "তাড়াশ",
+            "value": "592"
+        },
+        {
+            "area_name": "বেলকুচি",
+            "value": "593"
+        },
+        {
+            "area_name": "রায়গঞ্জ",
+            "value": "594"
+        },
+        {
+            "area_name": "শাহজাদপুর",
+            "value": "595"
+        },
+        {
+            "area_name": "সিরাজগঞ্জ সদর",
+            "value": "596"
+        }
+    ]
+},
+{
+    "district_name": "সুনামগঞ্জ",
+    "value": 62,
+    "area": [
+        {
+            "area_name": "ছাতক",
+            "value": "597"
+        },
+        {
+            "area_name": "জগন্নাথপুর",
+            "value": "598"
+        },
+        {
+            "area_name": "জামালগঞ্জ",
+            "value": "599"
+        },
+        {
+            "area_name": "তাহিরপুর",
+            "value": "600"
+        },
+        {
+            "area_name": "দক্ষিণ সুনামগঞ্জ",
+            "value": "601"
+        },
+        {
+            "area_name": "দিরাই",
+            "value": "602"
+        },
+        {
+            "area_name": "দোয়ারাবাজার",
+            "value": "603"
+        },
+        {
+            "area_name": "ধর্মপাশা",
+            "value": "604"
+        },
+        {
+            "area_name": "বিশ্বম্ভরপুর",
+            "value": "605"
+        },
+        {
+            "area_name": "শাল্লা",
+            "value": "606"
+        },
+        {
+            "area_name": "সুনামগঞ্জ সদর",
+            "value": "607"
+        }
+    ]
+},
+{
+    "district_name": "সিলেট",
+    "value": 63,
+    "area": [
+        {
+            "area_name": "ওসমানী নগর",
+            "value": "608"
+        },
+        {
+            "area_name": "কানাইঘাট",
+            "value": "609"
+        },
+        {
+            "area_name": "কোম্পানীগঞ্জ",
+            "value": "610"
+        },
+        {
+            "area_name": "গোলাপগঞ্জ",
+            "value": "611"
+        },
+        {
+            "area_name": "গোয়াইনঘাট",
+            "value": "612"
+        },
+        {
+            "area_name": "জকিগঞ্জ",
+            "value": "613"
+        },
+        {
+            "area_name": "জৈন্তাপুর",
+            "value": "614"
+        },
+        {
+            "area_name": "দক্ষিণ সুরমা",
+            "value": "615"
+        },
+        {
+            "area_name": "ফেঞ্চুগঞ্জ",
+            "value": "616"
+        },
+        {
+            "area_name": "বালাগঞ্জ",
+            "value": "617"
+        },
+        {
+            "area_name": "বিশ্বনাথ",
+            "value": "618"
+        },
+        {
+            "area_name": "বিয়ানীবাজার",
+            "value": "619"
+        },
+        {
+            "area_name": "সিলেট সদর",
+            "value": "620"
+        }
+    ]
+},
+{
+    "district_name": "টাঙ্গাইল",
+    "value": 64,
+    "area": [
+        {
+            "area_name": "কালিহাতী",
+            "value": "621"
+        },
+        {
+            "area_name": "গোপালপুর",
+            "value": "622"
+        },
+        {
+            "area_name": "ঘাটাইল",
+            "value": "623"
+        },
+        {
+            "area_name": "টাঙ্গাইল সদর",
+            "value": "624"
+        },
+        {
+            "area_name": "দেলদুয়ার",
+            "value": "625"
+        },
+        {
+            "area_name": "ধনবাড়ী",
+            "value": "626"
+        },
+        {
+            "area_name": "নাগরপুর",
+            "value": "627"
+        },
+        {
+            "area_name": "বাসাইল",
+            "value": "628"
+        },
+        {
+            "area_name": "ভুয়াপুর",
+            "value": "629"
+        },
+        {
+            "area_name": "মধুপুর",
+            "value": "630"
+        },
+        {
+            "area_name": "মির্জাপুর",
+            "value": "631"
+        },
+        {
+            "area_name": "সখিপুর",
+            "value": "632"
+        }
+    ]
+},
+{
+    "district_name": "ঠাকুরগাঁও",
+    "value": 65,
+    "area": [
+        {
+            "area_name": "ঠাকুরগাঁও সদর",
+            "value": "633"
+        },
+        {
+            "area_name": "পীরগঞ্জ",
+            "value": "634"
+        },
+        {
+            "area_name": "বালিয়াডাঙ্গী",
+            "value": "635"
+        },
+        {
+            "area_name": "রাণীশংকৈল",
+            "value": "636"
+        },
+        {
+            "area_name": "হরিপুর",
+            "value": "637"
+        }
+    ]
+}
+]

@@ -57,6 +57,10 @@ body{
     text-align: justify;
 }
 
+#billTable{
+    display: none;
+}
+
 tr th:first{
     padding-left: 0;
 }
@@ -64,6 +68,10 @@ tr th:first{
 tr th:last, tr td:last{
     /* float: right; */
     padding-right: 0;
+}
+
+#paymentMethodSystem{
+    vertical-align: middle;
 }
 
 @media only screen and (max-width: 320px) {
