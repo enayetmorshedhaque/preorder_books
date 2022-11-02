@@ -1,43 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
 
-*{
+* {
     font-family: 'Hind Siliguri', sans-serif;
 }
 
-body{
+body {
     background-color: #f1f2f4;
 }
 
-#book-cover-section{
+#book-cover-section {
     max-width: 312px;
     height: 400px;
     border: 1px solid #cdcdcd;
     padding: 41px 34px;
 }
 
-#book-cover-section img{
+#book-cover-section img {
     width: 240px;
     height: 320px;
 }
 
-.book-price{
+.book-price {
     font-size: 19px;
     word-spacing: 3px;
     font-weight: 700;
     margin: 8px 0 12px 0;
 }
 
-.original-price{
+.original-price {
     margin-right: 3px;
     font-size: 18px;
     color: #737373;
 }
 
-.sell-price{
+.sell-price {
     font-size: 24px;
 }
 
-.discount{
+.discount {
     color: #666666;
     margin-left: 3px;
     font-size: 15px;
@@ -45,37 +45,39 @@ body{
     font-weight: 400;
 }
 
-.btn{
+.btn {
     padding: 13.5px 30px;
 }
 
-.btn-outline-success:hover #preorderbook, #preorderbook:hover{
-    color: white!important;
+.btn-outline-success:hover #preorderbook,
+#preorderbook:hover {
+    color: white !important;
 }
 
-.disclaimer{
+.disclaimer {
     text-align: justify;
 }
 
-#billTable{
-    display: none !important;
+#billTable {
+    display: none;
 }
 
-tr th:first{
+tr th:first {
     padding-left: 0;
 }
 
-tr th:last, tr td:last{
+tr th:last,
+tr td:last {
     /* float: right; */
     padding-right: 0;
 }
 
-#paymentMethodSystem{
+#paymentMethodSystem {
     vertical-align: middle;
 }
 
 @media only screen and (max-width: 320px) {
-    .p-5{
-        padding: 1.5rem!important
+    .p-5 {
+        padding: 1.5rem !important
     }
 }
